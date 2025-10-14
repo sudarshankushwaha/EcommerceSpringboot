@@ -2,20 +2,26 @@ import { Grid, Link, Typography } from '@mui/material';
 
 const Footer = () => {
   return (
-    <Grid className='bg-black text-white mt-10 text-center' container color={'white' } sx={{ bgcolor: 'black', color: 'white', py: 3 }}>
-      <Grid  item xs={12} sm={6} md={3}>
-        <Typography className='pb-5' variant="h6" gutterBottom>
+    <Grid
+      className="bg-black text-white mt-10 text-center"
+      container
+      color={'white'}
+      sx={{ bgcolor: 'black', color: 'white', py: 3 }}
+    >
+      <Grid item xs={12} sm={6} md={3}>
+        <Typography className="pb-5" variant="h6" gutterBottom>
           Company
         </Typography>
-        <Typography variant="body2" component="p" gutterBottom>
-          About
-        </Typography>
-        <Typography variant="body2" component="p" gutterBottom>
-          Blog
-        </Typography>
-        <Typography variant="body2" component="p" gutterBottom>
-          Jobs
-        </Typography>
+        <Link href="https://sudarshankushwaha.github.io/privacy/" color="inherit" underline="hover" display="block" gutterBottom>
+          Privacy Policy
+        </Link>
+
+        <Link href="https://sudarshankushwaha.github.io/term/" color="inherit" underline="hover" display="block" gutterBottom>
+        Terms and Conditions
+        </Link>
+        <Link href="mailto:sudarshankushwaha1435@gmail.com " color="inherit" underline="hover" display="block" gutterBottom>
+          Contact
+        </Link>
         <Typography variant="body2" component="p" gutterBottom>
           Press
         </Typography>
@@ -23,8 +29,9 @@ const Footer = () => {
           Partners
         </Typography>
       </Grid>
+
       <Grid item xs={12} sm={6} md={3}>
-        <Typography className='pb-5' variant="h6" gutterBottom>
+        <Typography className="pb-5" variant="h6" gutterBottom>
           Solutions
         </Typography>
         <Typography variant="body2" component="p" gutterBottom>
@@ -43,8 +50,9 @@ const Footer = () => {
           Support
         </Typography>
       </Grid>
+
       <Grid item xs={12} sm={6} md={3}>
-        <Typography className='pb-5' variant="h6" gutterBottom>
+        <Typography className="pb-5" variant="h6" gutterBottom>
           Documentation
         </Typography>
         <Typography variant="body2" component="p" gutterBottom>
@@ -54,8 +62,9 @@ const Footer = () => {
           API Status
         </Typography>
       </Grid>
+
       <Grid item xs={12} sm={6} md={3}>
-        <Typography className='pb-5' variant="h6" gutterBottom>
+        <Typography className="pb-5" variant="h6" gutterBottom>
           Legal
         </Typography>
         <Typography variant="body2" component="p" gutterBottom>
@@ -68,9 +77,10 @@ const Footer = () => {
           Terms
         </Typography>
       </Grid>
-      <Grid className='pt-20' item xs={12} >
+
+      <Grid className="pt-20" item xs={12}>
         <Typography variant="body2" component="p" align="center">
-          &copy; 2023 My Company. All rights reserved.
+          &copy; 2025 Atta Market Noida. All rights reserved.
         </Typography>
         <Typography variant="body2" component="p" align="center">
           Made with love by Me.
