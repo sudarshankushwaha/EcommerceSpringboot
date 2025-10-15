@@ -1,7 +1,7 @@
 export const lengha_page1 = [
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/u/g/a/free-half-sleeve-vbnd-fddj-astonblue-original-imagp286bmcaabbj.jpeg?q=70",
+      "https://tapee.in/cdn/shop/files/ZariEmbroideredVichitraSilkOffWhiteWeddingWearLehengaCholi_2_900x.jpg?v=1734695129",
     "brand": "AstonBlue",
    "title": "Self Design Semi Stitched Lehenga Choli",
     "color": "Yellow",
@@ -30,7 +30,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/kmz7qfk0/lehenga-choli/m/0/t/s-sleeveless-l032-rayie-collection-original-imagfrbqhvddrnbd.jpeg?q=70",
+      "https://wholetex.sgp1.cdn.digitaloceanspaces.com/full/anamika-vol-44-silk-designer-lehenga-choli-6452.jpg",
     "brand": "rayie collection",
    "title": "Embroidered Stitched Lehenga & Crop Top",
     "color": "Black",
@@ -56,7 +56,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/5/n/h/l-3-4-sleeve-black-liva-original-imagmeyw2zzbch2g.jpeg?q=70",
+      "https://www.readytowearlehenga.in/cdn/shop/files/LNB-1_84203f1a-9cf6-4660-a3bb-132a11900164.jpg?v=1748584974",
     "brand": "Liva",
    "title": "Embroidered Stitched Lehenga & Crop Top",
     "color": "Black",
@@ -81,7 +81,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/b/h/z/xl-sleeveless-owa2cd2320a-soch-original-imagjvmyhy63ms7z.jpeg?q=70",
+      "https://subhvastra.in/cdn/shop/files/pista-color-kanchipuram-zari-weaving-work-lehenga-choli-by-looknbook-art_1000x.webp?v=1715854405",
     "brand": "soch",
    "title": "Embellished Stitched Lehenga Choli",
     "color": "Yellow",
@@ -105,7 +105,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/y/d/8/l-3-4-sleeve-green-liva-original-imagmez3duzyzzxz.jpeg?q=70",
+      "https://fealdeal.com/cdn/shop/files/LNB1610TEL_1.jpg?v=1756886939",
     "brand": "Liva",
    "title": "Embroidered Stitched Lehenga & Crop Top",
     "color": "Green",
@@ -130,7 +130,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/j/b/g/xl-sleeveless-owa2cd2319a-soch-original-imagjvmysh3z9egk.jpeg?q=70",
+      "https://www.sinufashion.com/media/catalog/product/cache/d15029b991c9e145c27c061c6d6fda01/1/2/12723.jpg",
     "brand": "soch",
    "title": "Solid Stitched Lehenga Choli",
     "color": "Dark Blue",
@@ -155,7 +155,7 @@ export const lengha_page1 = [
  
 {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/l16rde80/lehenga-choli/h/r/t/free-3-4-sleeve-r1-5-aminia-original-imagct7ghhpgrm48.jpeg?q=70",
+      "https://assets0.mirraw.com/images/12962414/1601FLW_MAIN_zoom.jpg?1732855031",
     "brand": "AMINIA",
    "title": "Embroidered Semi Stitched Lehenga Choli",
     "color": "Maroon",
@@ -180,7 +180,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/r/8/u/free-half-sleeve-mjo4061-mjo-fashion-original-imagmyk9yxpykc7j.jpeg?q=70",
+      "https://sunasa.in/cdn/shop/files/turquoise-blue-designer-silk-bridal-lehenga-choli-2_1500x.jpg?v=1693504411",
     "brand": "mjo fashion",
    "title": "Embroidered Semi Stitched Lehenga Choli",
     "color": "Maroon",
@@ -205,7 +205,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/3/d/1/l-half-sleeve-na-lh-mamta-fashion-hub-original-imagz6fhx79zcy7g.jpeg?q=70",
+      "https://www.vasangini.com/wp-content/uploads/2025/06/Ethnic-Cotton-Lehenga-Choli-for-Women-Girls-Gamthi-Kaudi-Work-Festive-Ghagra-for-Garba.webp",
     "brand": "rashora",
    "title": "Self Design Semi Stitched Lehenga Choli",
     "color": "Gold, Orange",
@@ -230,7 +230,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/sari/j/f/n/free-verveecouture-vv-126-vervee-couture-unstitched-original-imagnhgjmgrth4xr.jpeg?q=70",
+      "https://mahezon.in/cdn/shop/files/Indian_Traditional_Navratri_Garba_Embroidery_Women_Lehenga_Choli_800x1026_crop_center@2x.jpg?v=1756122621",
     "brand": "Vervee Couture",
    "title": "Embroidered Semi Stitched Lehenga Choli",
     "color": "Blue",
