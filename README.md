@@ -44,6 +44,21 @@ A modern and user-friendly online e-commerce web application where users can bro
 ### 🔧 Tools & Others
 - **Git & GitHub** – Version control and code hosting
 
+- ## Installation
+
+1. Clone Frontend repository: `git clone https://github.com/sudarshankushwaha/EcommerceSpringboot.git`
+2. Clone Backend Repository: `git clone https://github.com/sudarshankushwaha/EcommerceSpringboot.git`
+3. Change directory Frontend:`cd react`
+4. Change directory Backend: `cd ecommerce-server`
+5. Install frontend dependencies: `npm install`
+6. Install backend dependencies
+
+## Usage
+
+1. Start the frontend application: `npm start`
+2. Start the backend server:
+3. Access the application at `http://localhost:3000` in your web browser.
+
 <img width="906" height="823" alt="Screenshot 2025-11-24 221559" src="https://github.com/user-attachments/assets/4a8ec6a6-07c5-4154-b350-903f0194d83c" />
 
 <img width="837" height="671" alt="Screenshot 2025-11-24 221631" src="https://github.com/user-attachments/assets/bb952200-32bb-4be4-b523-382c246d7656" />
