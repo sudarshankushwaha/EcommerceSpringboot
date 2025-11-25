@@ -48,3 +48,4 @@ A modern and user-friendly online e-commerce web application where users can bro
 
 <img width="837" height="671" alt="Screenshot 2025-11-24 221631" src="https://github.com/user-attachments/assets/bb952200-32bb-4be4-b523-382c246d7656" />
 
+<img width="1898" height="897" alt="Screenshot 2025-11-24 221748" src="https://github.com/user-attachments/assets/a32a248c-ce13-4aef-bccd-21fdb49e0b3d" />
