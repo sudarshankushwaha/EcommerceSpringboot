@@ -44,3 +44,7 @@ A modern and user-friendly online e-commerce web application where users can bro
 ### 🔧 Tools & Others
 - **Git & GitHub** – Version control and code hosting
 
+<img width="906" height="823" alt="Screenshot 2025-11-24 221559" src="https://github.com/user-attachments/assets/4a8ec6a6-07c5-4154-b350-903f0194d83c" />
+
+<img width="837" height="671" alt="Screenshot 2025-11-24 221631" src="https://github.com/user-attachments/assets/bb952200-32bb-4be4-b523-382c246d7656" />
+
